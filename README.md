@@ -1,10 +1,12 @@
-Text Data Pipeline
+============================================================
+                Text Data Pipeline - README
+============================================================
 
-Description:
+Description
 ----------------
 This project implements a simple text data pipeline that preprocesses text data from CSV files, performs sentiment analysis, and provides a summary of the sentiment distribution.
 
-File Structure:
+File Structure
 ----------------
 - data/
   - train_data.csv: CSV file containing training data
@@ -13,15 +15,14 @@ File Structure:
   - data_processing.py: Python script for data preprocessing
   - sentiment_analysis.py: Python script for sentiment analysis
   - main.py: Main Python script to execute the data pipeline
-- README.txt: This file providing information about the project
 
-Dependencies:
+Dependencies
 ----------------
 - Python 3.x
 - pandas
 - textblob
 
-Usage:
+Usage
 ----------------
 1. Place your training and validation data CSV files in the data/ directory.
 2. Navigate to the src/ directory in the terminal.
@@ -29,7 +30,7 @@ Usage:
 4. Run the main.py script using the command: python3 main.py.
 5. The program will process the data, perform sentiment analysis, and provide a summary of the sentiment distribution.
 
-Sample Output:
+Sample Output
 ----------------
 Data processing and sentiment analysis completed successfully.
 Processed 1000 records from the training data.
