@@ -1,6 +1,4 @@
-
-                Text Data Pipeline
-
+Text Data Pipeline - README
 
 Description
 ----------------
