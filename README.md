@@ -1,3 +1,5 @@
+Text Data Pipeline - [README](#text-data-pipeline---readme)
+
 Description
 ----------------
 This project implements a simple text data pipeline that preprocesses text data from CSV files, performs sentiment analysis, and provides a summary of the sentiment distribution.
