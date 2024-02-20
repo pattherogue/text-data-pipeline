@@ -38,5 +38,3 @@ Sentiment distribution:
 - Neutral: 200
 - Negative: 100
 
-![Application Results](img/Screen Shot 2024-02-20 at 11.19.01 AM.png)
-
